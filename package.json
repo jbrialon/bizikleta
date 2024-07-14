@@ -1,0 +1,20 @@
+{
+  "name": "bizikleta",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "reset-css": "^5.0.2",
+    "vue": "^3.4.29",
+    "vue-insta-stories": "^0.9.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
